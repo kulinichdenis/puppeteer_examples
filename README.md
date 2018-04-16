@@ -1,1 +1,1 @@
-Some examples with puppetteer.
+Some examples with puppeteer.
